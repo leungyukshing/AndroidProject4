@@ -1,21 +1,22 @@
 # 项目4
 # 简单音乐播放器
 
-# 第十二周任务
+# Week12
 ## 简单音乐播放器
 ---
 ### 实验内容
 实现一个简单的播放器，要求功能有：  
 <table>
     <tr>
-        <td ><img src="https://gitee.com/code_sysu/PersonalProject4/raw/master/manual/images/fig1.jpg" >打开程序主页面</td>
-        <td ><img src="https://gitee.com/code_sysu/PersonalProject4/raw/master/manual/images/fig2.jpg" >开始播放</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab4/fig1.jpg" >打开程序主页面</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab4/fig2.jpg" >开始播放</td>
     </tr>
     <tr>
-        <td ><img src="https://gitee.com/code_sysu/PersonalProject4/raw/master/manual/images/fig3.jpg" >暂停</td>
-        <td ><img src="https://gitee.com/code_sysu/PersonalProject4/raw/master/manual/images/fig1.jpg" >停止</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab4/fig3.jpg" >暂停</td>
+        <td ><img src="https://raw.githubusercontent.com/leungyukshing/AndroidProjectPhoto/master/lab4/fig1.jpg" >停止</td>
     </tr>
 </table>
+
 
 1. 播放、暂停、停止、退出功能，按停止键会重置封面转角，进度条和播放按钮；按退出键将停止播放并退出程序
 2. 后台播放功能，按手机的返回键和home键都不会停止播放，而是转入后台进行播放
